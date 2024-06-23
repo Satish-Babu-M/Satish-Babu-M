@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Satish-Babu-M
 - 👀 I’m interested in Ful Stack Development and Cloud Computing
-- 🌱 I’m currently learning MERN stack
+- 🌱 I’m currently MERN stack Developer.
 - 💞️ I’m looking to collaborate on React projects
 - 📫 How to reach me : Email - malempatisathishbabu007@gmail.com
 
